@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Nihal_Load_prediction_model_python
 
 # In[2]:
 
